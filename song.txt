@@ -21,3 +21,5 @@ On the seaside
 In the seaside
 
 New commit number 1
+
+New commit number 2
